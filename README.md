@@ -1,12 +1,11 @@
 # Gmail-Bulk-Personalized-Email-Sender
-This project aims to create a bulk and personalized emails sender using Gmail with Python.
+This project aims to create a bulk and personalized emails sender using [Gmail](https://mail.google.com/) with [Python](https://www.python.org/).
 
 ### Output:
-<img src="https://user-images.githubusercontent.com/64377961/206591685-98ac05e0-bc96-4c5e-9963-c512eee24442.png" height="400">
+<img src="https://user-images.githubusercontent.com/64377961/206591685-98ac05e0-bc96-4c5e-9963-c512eee24442.png" height="600">
 
 ### How it works:
-<img src="https://user-images.githubusercontent.com/64377961/206592276-3d108d3c-a2a9-4ba4-9fdd-26d001da04df.png" height="400">
-![Gmail Automation (2)](https://user-images.githubusercontent.com/64377961/206592276-3d108d3c-a2a9-4ba4-9fdd-26d001da04df.png)
+<img src="https://user-images.githubusercontent.com/64377961/206592276-3d108d3c-a2a9-4ba4-9fdd-26d001da04df.png" height="600">
 
 ### Demo video (spanish): [Demo video](https://vm.tiktok.com/ZMFbCLu2q)
 
